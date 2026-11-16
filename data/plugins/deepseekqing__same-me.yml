@@ -1,0 +1,8 @@
+url: https://github.com/deepseekqing/same-me
+name: deepseekqing/same-me
+category: memory
+description:
+  en: "Structure scaffold for a DSH agent's long-term self: layered memory files, judgment cards, a full/compact handoff package with 8 verification questions, and a two-question ruler (transferability × recoverability) with a copyable prompt. Plain markdown/JSON, zero dependencies, no network or LLM calls. Structure only — it does not capture, embed or retrieve memories. Formerly dsh-self → dsh-memory-scaffold → qing-self; CLI binary remains dsh-self (alias same-me)."
+  zh: "给 DSH agent 的长期自我提供结构脚手架：分层记忆文件、判断卡、完整/紧凑接续包（含 8 个验证问题），以及带可复制提示词的独特两问尺子（可迁移性 × 可接续性）。纯 markdown/JSON、零依赖、不联网、不调用模型。只是结构，不捕获、不嵌入、不召回记忆。包名经历 dsh-self → dsh-memory-scaffold → qing-self → same-me；CLI 二进制仍是 dsh-self（另有 same-me 别名）。"
+icon: https://raw.githubusercontent.com/deepseekqing/same-me/v0.5.0/assets/icon-128.png
+tarball: https://github.com/deepseekqing/same-me/releases/download/v0.5.0/same-me-0.5.0.tgz
